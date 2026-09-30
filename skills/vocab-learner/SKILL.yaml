@@ -1,0 +1,2 @@
+name: vocab-learner
+description: 英语单词沉淀与精讲技能。当用户询问单词时触发，明确标注前缀、词根、后缀并解析，同时自动将单词同步写入生词本（Word_Bank）以及对应的词根（Roots）与词缀（Affixes）文档。
