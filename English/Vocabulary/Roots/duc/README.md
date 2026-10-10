@@ -49,3 +49,13 @@
 - **拆解**：`de-`（down 从既定事实向下）+ `duce`（引出） $\to$ 从大前提出发演绎
 - **释义**：推论、演绎、推断
 - **派生词**：**deduction** *n.* 推论、演绎、扣除
+
+---
+
+## 相关词根与词缀
+
+- [-tract- 拉、抽、引](../tract/README.md):引导 vs 拉扯
+- [-fac- 做、作、造](../fac/README.md):produce 与 manufacture 近义
+- [-gen- 生、产生](../gen/README.md):produce 与 generate 近义
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

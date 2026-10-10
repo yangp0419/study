@@ -43,3 +43,13 @@
 - **拆解**：`ob-`（against 对着）+ `press`（压） $\to$ 压迫在头上
 - **释义**：*v.* 压迫、苛待、使压抑
 - **派生词**：**oppression** *n.* 压迫；**oppressive** *adj.* 压迫残酷的、闷热压抑的
+
+---
+
+## 相关词根与词缀
+
+- [-tract- 拉、抽、引](../tract/README.md):压与拉,一对反向动作
+- [-dict- 说、言](../dict/README.md):express 与 predict 都含'表达'义
+- [-rupt- 破、断、裂](../rupt/README.md):压到极限即破裂
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

@@ -42,3 +42,12 @@
 - **拆解**：`dis-`（away 散开）+ `miss`（送走） $\to$ 打发打发走人
 - **释义**：*v.* 解雇、开除；驳回、对……不屑一顾；解散
 - **派生词**：**dismissal** *n.* 解雇、驳回
+
+---
+
+## 相关词根与词缀
+
+- [-port- 拿、运](../port/README.md):发送 vs 搬运
+- [-cur- 跑、流动](../cur/README.md):transmit 与 occur 常考同类前缀 trans-/oc-
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

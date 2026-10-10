@@ -60,3 +60,12 @@
 - **拆解**：`con-`（加强语气）+ `spic`（看）+ `-uous`（易于……的） $\to$ 一眼就能全看见的
 - **释义**：显眼的、引人注目的
 - **常用搭配**：*conspicuous consumption*（炫耀性消费）
+
+---
+
+## 相关词根与词缀
+
+- [-vers- 转、转向](../vers/README.md):expect / respect / reverse 常与 re-、pro- 前缀搭配对比
+- [-scrib- 写、记](../scrib/README.md):看(输入)与写(输出)
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

@@ -67,3 +67,12 @@
 - **拆解**：`pro-`（forward 往前）+ `tract`（拉长） $\to$ 一直向前拉长时间
 - **释义**：延长、拖延
 - **常用搭配**：*a protracted dispute*（旷日持久的争端）
+
+---
+
+## 相关词根与词缀
+
+- [-duc- 引、导](../duc/README.md):拉 vs 引,同属'牵引'义场
+- [-press- 压、按](../press/README.md):拉与压是一对反向动作
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

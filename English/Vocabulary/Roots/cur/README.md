@@ -32,3 +32,13 @@
 - **音标**：/ɪkˈskɜːʃn/
 - **拆解**：`ex-`（out 向外）+ `curs`（跑）+ `-ion` $\to$ 到外面散步跑跑
 - **释义**：*n.* 远足、短途旅行、离题
+
+---
+
+## 相关词根与词缀
+
+- [-vers- 转、转向](../vers/README.md):奔跑 vs 转向
+- [-rupt- 破、断、裂](../rupt/README.md):occur 与 erupt 都表示'发生/爆发'
+- [-mit- 送、发](../mit/README.md):trans- 前缀搭配对比
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

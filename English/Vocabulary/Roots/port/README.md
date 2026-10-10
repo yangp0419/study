@@ -39,3 +39,12 @@
 - **拆解**：`de-`（away 移走）+ `port`（运） $\to$ 押运离开本国
 - **释义**：*v.* 把……驱逐出境
 - **派生词**：**deportation** *n.* 驱逐出境
+
+---
+
+## 相关词根与词缀
+
+- [-mit- 送、发](../mit/README.md):搬运 vs 发送,import / transmit 常对比
+- [-duc- 引、导](../duc/README.md):运送与引导
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

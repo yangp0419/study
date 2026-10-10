@@ -41,3 +41,12 @@
 - **音标**：/ˈtrænskrɪpt/
 - **拆解**：`trans-`（across 转移转换）+ `script`（写出） $\to$ 跨媒介转录下来的文本
 - **释义**：*n.* 成绩单、转录文本、会议记录
+
+---
+
+## 相关词根与词缀
+
+- [-dict- 说、言](../dict/README.md):写与说,表达类词根
+- [-spect- 看、视](../spect/README.md):输出(写)与输入(看)
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

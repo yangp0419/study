@@ -34,3 +34,12 @@
 - **拆解**：`bene`（good 好）+ `fic`（做）+ `-ial` $\to$ 做好事的
 - **释义**：*adj.* 有益的、有利的
 - **派生词**：**benefit** *n./v.* 益处、得益于
+
+---
+
+## 相关词根与词缀
+
+- [-gen- 生、产生](../gen/README.md):做 vs 生,近义词根群
+- [-duc- 引、导](../duc/README.md):manufacture 与 produce 近义
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

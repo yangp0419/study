@@ -135,3 +135,12 @@
                      ├── ab- (离开/脱节) ──> abrupt      (突然截断 -> 突然的、生硬的)
                      └── -ure (名词/动词)──> rupture     (破裂、决裂)
 ```
+
+---
+
+## 相关词根与词缀
+
+- [-press- 压、按](../press/README.md):向外冲破 / 挤出,e- 前缀构词思路相同
+- [-cur- 跑、流动](../cur/README.md):erupt 与 occur 都表示'突然发生'
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

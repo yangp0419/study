@@ -52,3 +52,12 @@
 - **释义**：*n.* 吸毒成瘾者、对……入迷的人；*v.* 使沉溺、使成瘾
 - **常用搭配**：*be addicted to games / drugs*（沉迷于游戏/毒品）
 - **派生词**：**addiction** *n.* 瘾、沉迷；**addictive** *adj.* 使人上瘾的
+
+---
+
+## 相关词根与词缀
+
+- [-scrib- 写、记](../scrib/README.md):说与写,表达类词根
+- [-press- 压、按](../press/README.md):express 与 predict 都含'表达'义
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

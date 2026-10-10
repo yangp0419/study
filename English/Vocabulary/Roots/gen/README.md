@@ -31,3 +31,12 @@
 - **音标**：/ˈpæθədʒən/
 - **拆解**：`patho`（disease 疾病、苦痛）+ `gen`（产生者） $\to$ 产生疾病的源头
 - **释义**：*n.* 病原体、致病菌
+
+---
+
+## 相关词根与词缀
+
+- [-fac- 做、作、造](../fac/README.md):生 vs 做,近义词根群
+- [-duc- 引、导](../duc/README.md):generate 与 produce 近义
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)

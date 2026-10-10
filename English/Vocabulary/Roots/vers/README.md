@@ -46,3 +46,12 @@
 - **释义**：*n.* 争论、争议
 - **常用搭配**：*arouse / cause controversy*（引起争议）
 - **派生词**：**controversial** *adj.* 有争议的
+
+---
+
+## 相关词根与词缀
+
+- [-cur- 跑、流动](../cur/README.md):转向 vs 奔跑,都是方向性动作
+- [-spect- 看、视](../spect/README.md):同属 re-、pro-、in- 前缀高频组合
+- [前缀总表](../../Affixes/Prefixes/README.md) · [后缀总表](../../Affixes/Suffixes/README.md)
+- [词根总目录](../README.md)
